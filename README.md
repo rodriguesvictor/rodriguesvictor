@@ -2,7 +2,7 @@
 #### I am a Web Developer
 
 - 🌱 I’m currently learning .NET Core 3.1 and C#; 
-- 👯 I’m looking to collaborate on  on projects that are using Java with Spring Boot Framework. 
+- 👯 I’m looking to collaborate on  on projects that are using Java with Spring Framework. 
 
 ##### Let's Connect ☕
 
