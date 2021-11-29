@@ -7,6 +7,5 @@
 ##### Let's Connect ☕
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victor-rodrigues-330639160/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={rodriguesvictor}&theme=blue-green)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesvictor&show_icons=true)  
