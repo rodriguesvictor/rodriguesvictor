@@ -1,11 +1,14 @@
-### Hi there 👋, my name is Victor
-#### I am a Web Developer
+### Hi, my name is Victor
+#### I am a Developer
 
 - 🌱 I’m currently learning .NET Core 3.1 and C#; 
-- 👯 I’m looking to collaborate on  on projects that are using Java with Spring Framework. 
+- 👯 I’m looking to collaborate on Back-End projects. 
+ 
 
 ##### Let's Connect ☕
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victor-rodrigues-330639160/) 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesvictor&show_icons=true)  
+ 
+<div align="center">
+  <a href="https://github.com/rodriguesvictor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesvictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesvictor&layout=compact&langs_count=7&theme=dracula"/>
+</div>
