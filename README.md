@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate on  on projects that are using Java with Spring Framework. 
 
 ##### Let's Connect ☕
-
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victor-rodrigues-330639160/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesvictor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={rodriguesvictor}&theme=blue-green)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesvictor&show_icons=true)  
