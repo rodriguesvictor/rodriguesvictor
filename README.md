@@ -18,7 +18,7 @@
   <img align="center" alt="Victor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
-   <img align="center" alt="Victor-Dotnet" height="40" width="50" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="Victor-Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
    <img align="center" alt="Victor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Victor-SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
      <img align="center" alt="Victor-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
