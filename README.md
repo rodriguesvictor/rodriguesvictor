@@ -11,10 +11,8 @@
 </div>
  
  ### My Skills ☕
-<div align="center" style="display: inline_block"><br>
- <a href="https://www.javascript.com/">
-  <img align="center" alt="Victor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </a>
+<div align="center"><br>
+ 
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
