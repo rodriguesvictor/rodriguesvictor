@@ -12,20 +12,50 @@
  
  ### My Skills ☕
 <div align="center" style="display: inline_block"><br>
+ <a href="https://www.javascript.com/">
   <img align="center" alt="Victor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Victor-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  </a>
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img align="center" alt="Victor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  </a>
+ 
+  <a href="https://git-scm.com/">
+  <img align="center" alt="Victor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+  <a href="https://github.com/">
+  <img align="center" alt="Victor-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+ 
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
   </a>
-   <img align="center" alt="Victor-Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-   <img align="center" alt="Victor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Victor-SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-     <img align="center" alt="Victor-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-      <img align="center" alt="Victor-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-      <img align="center" alt="Victor-Sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ 
+ <a href="https://docs.microsoft.com/pt-br/dotnet">
+   <img align="center" alt="Victor-Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+   </a>
+ <a href="https://docs.oracle.com/en/java/">
+   <img align="center" alt="Victor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   </a>
+ 
+ <a href="https://spring.io/">
+    <img align="center" alt="Victor-SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  </a>
+  <a href="https://docs.developer.canva.com/apps/quick-start">
+     <img align="center" alt="Victor-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  </a>
+ 
+   <a href="https://dev.mysql.com/">
+      <img align="center" alt="Victor-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+   </a>
+ 
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+      <img align="center" alt="Victor-Sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  </a>
+ 
 </div>
  
  ### Let's Connect 
