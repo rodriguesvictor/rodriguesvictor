@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .NET Core 3.1 and C#; 
 - 👯 I’m looking to collaborate on Back-End projects. 
  
-### My Stats
+### My Statistics
 <div align="center">
   <a href="https://github.com/rodriguesvictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesvictor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
