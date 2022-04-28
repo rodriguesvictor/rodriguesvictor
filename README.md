@@ -1,6 +1,6 @@
 ## Hi, this is my GitHub!
 
-- 🌱 I’m currently learning .NET Core 3.1 and C#; 
+- 🌱 I’m currently learning Javascript; 
 - 👯 I’m looking to collaborate on Back-End projects. 
  
 ### My Statistics
