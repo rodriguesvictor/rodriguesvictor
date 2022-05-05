@@ -1,7 +1,7 @@
 ## Hi, this is my GitHub!
 
 - 🌱 I’m currently learning Javascript; 
-- 👯 I’m looking to collaborate on Back-End projects. 
+- 👯 I’m looking to collaborate on Front-End and Back-End projects. 
  
 ### My Statistics
 <div align="center">
