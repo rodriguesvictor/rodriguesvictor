@@ -13,15 +13,15 @@
  ### My Skills ☕
 <div align="center"><br>
  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="center" alt="Victor-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://reactjs.org/docs/getting-started.html">
   <img align="center" alt="Victor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </a>
  
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+ <a href="https://nodejs.org/en/docs/">
   <img align="center" alt="Victor-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   </a>
  
