@@ -1,6 +1,6 @@
 ## Hi, this is my GitHub!
 
-- 🌱 I’m currently learning Javascript; 
+- 🌱 I’m currently learning React; 
 - 👯 I’m looking to collaborate on Front-End and Back-End projects. 
  
 ### My Statistics
